@@ -1,6 +1,6 @@
 {
   "name": "auto-updater-electron",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "test auto updater electron",
   "main": "./dist/main/index.js",
   "scripts": {
